@@ -1,8 +1,11 @@
 # innogylauf
-Ergebnisse des 2019 Firmenlauf Essen scrapen.
+Python-Code um Ergebnisse des 2019 Firmenlauf Essen zu scrapen.
+
+## Dokumentation
+mmmh, keine :woman_shrugging:
 
 ## Datensatz im CSV-Format erzeugen
-siehe sample/scrape.py
+Siehe sample/scrape.py
 
 
 
